@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18371283.svg)](https://doi.org/10.5281/zenodo.18371283)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/dbeaup01/filament-eulerian-circulation/blob/main/SFH_Filament_Rotation_CF4_Reproducible.ipynb
+https://colab.research.google.com/github/dbeaup01/filament-eulerian-circulation/blob/main/Filament_Eulerian_Circulation_V3.ipynb
 )
 
 # Filament-Scale Eulerian Circulation
