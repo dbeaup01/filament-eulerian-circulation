@@ -4,7 +4,6 @@
 https://colab.research.google.com/github/dbeaup01/filament-eulerian-circulation/blob/main/SFH_Filament_Rotation_CF4_Reproducible.ipynb
 )
 
-
 # Filament-Scale Eulerian Circulation
 
 This repository accompanies the paper  
