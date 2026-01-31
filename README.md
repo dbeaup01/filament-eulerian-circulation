@@ -13,10 +13,15 @@ It provides reproducible notebooks and supporting code used to analyze
 the Cosmicflows-4 reconstructed velocity field and to measure
 filament-scale Eulerian circulation around cosmic filaments.
 
-## Contents
+## Paper
 
-- `paper/`  
-  PDF of the manuscript describing the observational analysis and results.
+The manuscript associated with this repository is available on Zenodo:
+
+- **Filament-Scale Eulerian Circulation in the Cosmic Velocity Field**
+- Latest version (V2): https://doi.org/10.5281/zenodo.18443025
+
+
+## Contents
 
 - `notebooks/filament_eulerian_circulation_reproducible.ipynb`  
   Main reproducible notebook implementing the circulation estimator,
