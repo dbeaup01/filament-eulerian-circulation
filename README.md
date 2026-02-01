@@ -34,14 +34,19 @@ The manuscript associated with this repository is available on Zenodo:
   Core routines for computing azimuthal velocity components and
   circulation profiles around filament axes.
 
-## Data
+## Data availability and inputs
 
-The analysis uses the publicly available **Cosmicflows-4**
-reconstructed velocity field.
-Due to data size and licensing considerations, the full velocity grids
+This analysis uses the Cosmicflows-4 reconstructed peculiar velocity field.
+Due to size and licensing constraints, the velocity grids and filament catalogs
 are not included in this repository.
-Instructions for obtaining the required inputs are provided in the
-main notebook.
+
+To reproduce the analysis, users must provide:
+- A Cosmicflows-4 velocity grid (e.g. CF4 reconstructed velocity cube)
+- A filament spine catalog (e.g. from DisPerSE)
+
+The notebook `filament_eulerian_circulation_reproducible.ipynb`
+contains step-by-step instructions for loading and preprocessing these inputs,
+including expected file formats and directory structure.
 
 ### Software environment
 
