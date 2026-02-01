@@ -23,11 +23,11 @@ The manuscript associated with this repository is available on Zenodo:
 
 ## Contents
 
-- `notebooks/filament_eulerian_circulation_reproducible.ipynb`  
+- `filament_eulerian_circulation_reproducible.ipynb`  
   Main reproducible notebook implementing the circulation estimator,
   null tests, and figures presented in the paper.
 
-- `notebooks/filament_finding.ipynb`  
+- `filament_finding.ipynb`  
   Supporting notebook demonstrating filament spine handling and geometry.
 
 - `filament_estimator.py`  
