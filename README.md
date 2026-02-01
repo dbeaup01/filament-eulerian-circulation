@@ -43,6 +43,18 @@ are not included in this repository.
 Instructions for obtaining the required inputs are provided in the
 main notebook.
 
+### Software environment
+
+This analysis was run using:
+- Python 3.10
+- numpy 1.26
+- scipy 1.11
+- astropy 6.0
+- pandas 2.1
+- matplotlib 3.8
+
+Exact versions are not critical to the qualitative results.
+
 ## Scope
 
 This repository presents a **purely observational, field-based analysis**.
