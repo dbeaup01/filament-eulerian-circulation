@@ -30,7 +30,7 @@ The manuscript associated with this repository is available on Zenodo:
 - `notebooks/filament_finding.ipynb`  
   Supporting notebook demonstrating filament spine handling and geometry.
 
-- `src/filament_estimator.py`  
+- `filament_estimator.py`  
   Core routines for computing azimuthal velocity components and
   circulation profiles around filament axes.
 
