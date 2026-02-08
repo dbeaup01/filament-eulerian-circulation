@@ -68,6 +68,20 @@ frozen procedures.
 Exploratory notebooks and early-phase diagnostic cells are clearly labeled
 within the notebooks and are **not used** to define the V3 detection results.
 
+
+## Notebooks
+
+- `Filament_Eulerian_Circulation_G3_N1500.ipynb`  
+  **Primary analysis notebook.**  
+  Implements the frozen Gate 3 (N = 1500) analysis used in Version 3 of the paper.
+  All results, figures, and statistics in the manuscript are generated from this notebook.
+
+- `filament_eulerian_circulation_reproducible.ipynb`  
+  Legacy reproducibility notebook used during early development and pilot analyses.
+  Retained for transparency and historical reference only.
+  **Not used to produce any results in the current manuscript.**
+
+
 ---
 
 ## Data availability and inputs
